@@ -24,9 +24,18 @@ For more information on Anthem Portal (Demo), please visit the [website](http://
 * [Intellij IDEA Ultimate Edition 14.1+](https://www.jetbrains.com/idea/download/#section=linux)
 * [NetBeans] (http://netbeans.org/downloads/)
 
-## Getting Source Repository
+### Getting Source Repository
 
 * Anthem Portal (Demo) project uses Git.  The offical Git repository is at: [Here](https://github.com/openanthem/portal.git)
 * Anthem Portal Login Module project uses Git.  The offical Git repository is at: [Here](https://github.com/openanthem/login.git)
 * Anthem Discovery Module project uses Git.  The offical Git repository is at: [Here](https://github.com/openanthem/discovery.git)
+
+### Links
+
+* [Documentation](https://anthemopensource.atlassian.net/wiki/spaces/APD)
+* Developer [Knowledge Base](https://anthemopensource.atlassian.net/wiki/spaces/APDDKB)
+* [Design Documentation](https://anthemopensource.atlassian.net/wiki/spaces/APDDD)
+* How to [contribute](CONTRIBUTING.md)
+
+
  
