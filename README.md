@@ -39,5 +39,20 @@ For more information on Anthem Portal (Demo), please visit the [website](http://
 * [Design Documentation](https://anthemopensource.atlassian.net/wiki/spaces/APDDD)
 * How to [contribute](CONTRIBUTING.md)
 
+### Getting Involved and Contributing
+
+Interested in helping out with our project? Great! We welcome participation from anybody willing to work and make a contribution. Note that you do not have to be a developer in order to contribute. We need folks to help with documentation, translation, promotion etc.See our contribution page.
+
+If you're interested in learning more or participating in the project, the [mailing lists](https://anthemopensource.atlassian.net/wiki/display/OA/Mailing+Lists) are the best way to do that. While the project has several communications channels, the mailing lists are the most active and the official channels for making decisions about the project itself.
+
+Mailing lists:
+
+* [Announcements Mailing List](mailto:anthem-opensource-portal@webteks.com)
+* [Development Mailing List](mailto:anthem-opensource-portal@webteks.com)
+* [Commits Mailing List](mailto:anthem-opensource-portal@webteks.com)
+* [Issues Mailing List](mailto:anthem-opensource-portal@webteks.com)
+* [Marketing Mailing List](mailto:anthem-opensource-portal@webteks.com)
+* [Users Mailing List](mailto:anthem-opensource-portal@webteks.com)
+
 
  
