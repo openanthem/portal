@@ -1,3 +1,5 @@
+![Build Status](http://crucible.previewmy.net:8085/plugins/servlet/wittified/build-status/AOP-MAKE)
+
 ![Anthem Portal(Demo)](tools/logo/anthem_banner.png)
 
 Anthem Portal (Demo) is open source software designed to deploy and manage enterprise applications as a highly availabile, platform neutral, highly scalable Software as a Services (SaaS).
