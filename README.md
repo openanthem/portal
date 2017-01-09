@@ -55,5 +55,9 @@ Mailing lists:
 * [Marketing Mailing List](mailto:anthem-opensource-portal@webteks.com)
 * [Users Mailing List](mailto:anthem-opensource-portal@webteks.com)
 
+SLACK, join us at https://anthemopensource.slack.com/signup
+
+* #general - General Open Anthem conversation and end user support
+* #dev - Development discussions
 
  
