@@ -127,4 +127,4 @@ $ git push origin :feature_x
 
 Release Principles
 ------------------
-Detailed information about ACS release principles is available at https://cwiki.apache.org/confluence/display/CLOUDSTACK/Release+principles+for+Apache+CloudStack+4.6+and+up 
+TBD
