@@ -1,4 +1,5 @@
 |![Build Status](http://crucible.previewmy.net:8085/plugins/servlet/wittified/build-status/AOP-MAKE)|
+|:-:|
 
 ![Anthem Portal(Demo)](tools/logo/anthem_banner.png)
 
